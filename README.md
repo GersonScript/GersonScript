@@ -44,17 +44,12 @@ Sou um **programador júnior**, fascinado por **tecnologias emergentes** e em um
 - **👩‍💻 Contribuir para projetos open-source**, sempre aprendendo e compartilhando com a comunidade.
 - **🌐 Explorar áreas de IA e ML**, para fins de conhecimento na área.
 
----
-
-## **🚀 Minhas Ferramentas do Futuro:**
-
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Futuristic GIF"/>
 </div>
 
 <div align="center">
   <h2 style="color: #00d4ff; font-family: 'Roboto', sans-serif; text-shadow: 0 0 15px #00d4ff, 0 0 25px #00aaff, 0 0 35px #0077ff;">
-    **✨ Transformando ideias em soluções! ✨**
   </h2>
 </div>
 
